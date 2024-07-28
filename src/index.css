@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(in hsl longer hue 90deg, blue 0 0);
+  text-align: center;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+label {
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 30px;
+}

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+    xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+    xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+    xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+    xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+    xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+    xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+    xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+    xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+    xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+    xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+    xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+    xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+    xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+    xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+    xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+    xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+    xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+    xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex wp14">
+    <w:body>
+        <w:p w14:paraId="5955CB7A" w14:textId="18E77BCD" w:rsidR="00C07B24" w:rsidRDefault="00C07B24" w:rsidP="00C07B24">
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="3D2508DA" w14:textId="265FFF4C" w:rsidR="00C07B24" w:rsidRPr="00C07B24" w:rsidRDefault="00A475A3" w:rsidP="00C07B24">
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:w w:val="150"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:noProof/>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251663360" behindDoc="1" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="7ACC1202" wp14:editId="0581E90B">
+                        <wp:simplePos x="0" y="0"/>
+                        <wp:positionH relativeFrom="margin">
+                            <wp:align>left</wp:align>
+                        </wp:positionH>
+                        <wp:positionV relativeFrom="paragraph">
+                            <wp:posOffset>6985</wp:posOffset>
+                        </wp:positionV>
+                        <wp:extent cx="1524000" cy="1362075"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="9525"/>
+                        <wp:wrapTight wrapText="bothSides">
+                            <wp:wrapPolygon edited="0">
+                                <wp:start x="10800" y="0"/>
+                                <wp:lineTo x="3510" y="906"/>
+                                <wp:lineTo x="540" y="2115"/>
+                                <wp:lineTo x="810" y="19334"/>
+                                <wp:lineTo x="9990" y="21449"/>
+                                <wp:lineTo x="10800" y="21449"/>
+                                <wp:lineTo x="12420" y="21449"/>
+                                <wp:lineTo x="20250" y="19334"/>
+                                <wp:lineTo x="21060" y="3021"/>
+                                <wp:lineTo x="19440" y="1813"/>
+                                <wp:lineTo x="12420" y="0"/>
+                                <wp:lineTo x="10800" y="0"/>
+                            </wp:wrapPolygon>
+                        </wp:wrapTight>
+                        <wp:docPr id="6" name="Picture 6"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="0" name="Picture 6"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill rotWithShape="1">
+                                        <a:blip r:embed="rId4" cstate="print">
+                                            <a:extLst>
+                                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+                                                </a:ext>
+                                            </a:extLst>
+                                        </a:blip>
+                                        <a:srcRect l="16734" r="15935"/>
+                                        <a:stretch/>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="1524000" cy="1362075"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                        <a:noFill/>
+                                        <a:ln>
+                                            <a:noFill/>
+                                        </a:ln>
+                                        <a:extLst>
+                                            <a:ext uri="{53640926-AAD7-44D8-BBD7-CCE9431645EC}">
+                                                <a14:shadowObscured xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                            </a:ext>
+                                        </a:extLst>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                        <wp14:sizeRelH relativeFrom="margin">
+                            <wp14:pctWidth>0</wp14:pctWidth>
+                        </wp14:sizeRelH>
+                    </wp:anchor>
+                </w:drawing>
+            </w:r>
+            <w:r w:rsidR="00C07B24" w:rsidRPr="00C07B24">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:w w:val="150"/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                </w:rPr>
+                <w:t>Test Page</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="63D6FE5A" w14:textId="3349628E" w:rsidR="00C07B24" w:rsidRDefault="00C07B24" w:rsidP="00C07B24">
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t>T</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t xml:space="preserve">his is </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t>a</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="002A02D5">
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t>Word</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> Document File (</w:t>
+            </w:r>
+            <w:r w:rsidR="002A02D5">
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t>DOC</w:t>
+            </w:r>
+            <w:r w:rsidR="00A475A3">
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t>X</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="282E2B71" w14:textId="76FD5669" w:rsidR="00C07B24" w:rsidRDefault="00C07B24" w:rsidP="00C07B24">
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C07B24">
+                <w:rPr>
+                    <w:spacing w:val="-20"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Commonly associated with </w:t>
+            </w:r>
+            <w:r w:rsidR="002A02D5">
+                <w:rPr>
+                    <w:spacing w:val="-20"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t>Microsoft Office</w:t>
+            </w:r>
+            <w:r w:rsidR="00A475A3">
+                <w:rPr>
+                    <w:spacing w:val="-20"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> 2007+</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0E455204" w14:textId="7F63FEB5" w:rsidR="00C07B24" w:rsidRDefault="00C07B24">
+            <w:pPr>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="7AAC9628" w14:textId="5DD48B14" w:rsidR="0037035E" w:rsidRDefault="0037035E">
+            <w:pPr>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">If </w:t>
+            </w:r>
+            <w:r w:rsidR="00C07B24">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">you </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>are</w:t>
+            </w:r>
+            <w:r w:rsidR="00C07B24">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> able to </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>read</w:t>
+            </w:r>
+            <w:r w:rsidR="00C07B24">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> this </w:t>
+            </w:r>
+            <w:r w:rsidR="00AC3E50">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>DOC</w:t>
+            </w:r>
+            <w:r w:rsidR="008B59D5">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>X</w:t>
+            </w:r>
+            <w:r w:rsidR="00C07B24">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> file, </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">software </w:t>
+            </w:r>
+            <w:r w:rsidR="00C07B24">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>is installed on your</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="00C07B24">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>computer</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> capable of displaying this file type</w:t>
+            </w:r>
+            <w:r w:rsidR="00C07B24">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">. </w:t>
+            </w:r>
+            <w:r w:rsidR="00AC3E50">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>DOC</w:t>
+            </w:r>
+            <w:r w:rsidR="008B59D5">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>X</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> files generally are for </w:t>
+            </w:r>
+            <w:r w:rsidR="00AC3E50">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">word processing. </w:t>
+            </w:r>
+            <w:r w:rsidR="008B59D5">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">This format </w:t>
+            </w:r>
+            <w:r w:rsidR="008C26F0">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>is the current</w:t>
+            </w:r>
+            <w:r w:rsidR="008B59D5">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="008C26F0">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">version </w:t>
+            </w:r>
+            <w:r w:rsidR="008B59D5">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>and has been available since 2007</w:t>
+            </w:r>
+            <w:r w:rsidR="008C26F0">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">. </w:t>
+            </w:r>
+            <w:r w:rsidR="008B59D5">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="00AC3E50">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Several software suites in addition to Microsoft’s are capable of </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">edited </w:t>
+            </w:r>
+            <w:r w:rsidR="00AC3E50">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>these files</w:t>
+            </w:r>
+            <w:r w:rsidR="008B59D5">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> including Google Docs</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t>.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6A44FB8F" w14:textId="0F62E467" w:rsidR="0037035E" w:rsidRDefault="0037035E">
+            <w:pPr>
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="14680D44" w14:textId="1F07B415" w:rsidR="00C77BBD" w:rsidRDefault="00BA17C4">
+            <w:r>
+                <w:rPr>
+                    <w:noProof/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251661312" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="44D666B7" wp14:editId="767BCA27">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>5444490</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>721360</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="714375" cy="409575"/>
+                                <wp:effectExtent l="0" t="0" r="9525" b="9525"/>
+                                <wp:wrapSquare wrapText="bothSides"/>
+                                <wp:docPr id="1" name="Text Box 1"/>
+                                <wp:cNvGraphicFramePr/>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr txBox="1"/>
+                                            <wps:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="714375" cy="409575"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:solidFill>
+                                                    <a:prstClr val="white"/>
+                                                </a:solidFill>
+                                                <a:ln>
+                                                    <a:noFill/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:txbx>
+                                                <w:txbxContent>
+                                                    <w:p w14:paraId="5DE84226" w14:textId="06072C96" w:rsidR="00A475A3" w:rsidRPr="00A475A3" w:rsidRDefault="00AC3E50" w:rsidP="00A475A3">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="NoSpacing"/>
+                                                            <w:jc w:val="center"/>
+                                                            <w:rPr>
+                                                                <w:i/>
+                                                                <w:iCs/>
+                                                                <w:sz w:val="18"/>
+                                                                <w:szCs w:val="18"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00A475A3">
+                                                            <w:rPr>
+                                                                <w:i/>
+                                                                <w:iCs/>
+                                                                <w:sz w:val="18"/>
+                                                                <w:szCs w:val="18"/>
+                                                            </w:rPr>
+                                                            <w:t>Office</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w14:paraId="7E2F72AE" w14:textId="0E832EE3" w:rsidR="00BA17C4" w:rsidRPr="00A475A3" w:rsidRDefault="00BA17C4" w:rsidP="00A475A3">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="NoSpacing"/>
+                                                            <w:jc w:val="center"/>
+                                                            <w:rPr>
+                                                                <w:i/>
+                                                                <w:iCs/>
+                                                                <w:sz w:val="18"/>
+                                                                <w:szCs w:val="18"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00A475A3">
+                                                            <w:rPr>
+                                                                <w:i/>
+                                                                <w:iCs/>
+                                                                <w:sz w:val="18"/>
+                                                                <w:szCs w:val="18"/>
+                                                            </w:rPr>
+                                                            <w:t>2019</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidR="00A475A3" w:rsidRPr="00A475A3">
+                                                            <w:rPr>
+                                                                <w:i/>
+                                                                <w:iCs/>
+                                                                <w:sz w:val="18"/>
+                                                                <w:szCs w:val="18"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve"> / 365</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </wps:txbx>
+                                            <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                                                <a:prstTxWarp prst="textNoShape">
+                                                    <a:avLst/>
+                                                </a:prstTxWarp>
+                                                <a:noAutofit/>
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                                <wp14:sizeRelH relativeFrom="margin">
+                                    <wp14:pctWidth>0</wp14:pctWidth>
+                                </wp14:sizeRelH>
+                                <wp14:sizeRelV relativeFrom="margin">
+                                    <wp14:pctHeight>0</wp14:pctHeight>
+                                </wp14:sizeRelV>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:shapetype w14:anchorId="44D666B7" id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+                                <v:stroke joinstyle="miter"/>
+                                <v:path gradientshapeok="t" o:connecttype="rect"/>
+                            </v:shapetype>
+                            <v:shape id="Text Box 1" o:spid="_x0000_s1026" type="#_x0000_t202" style="position:absolute;margin-left:428.7pt;margin-top:56.8pt;width:56.25pt;height:32.25pt;z-index:251661312;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:top" o:gfxdata="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&#xA;" stroked="f">
+                                <v:textbox inset="0,0,0,0">
+                                    <w:txbxContent>
+                                        <w:p w14:paraId="5DE84226" w14:textId="06072C96" w:rsidR="00A475A3" w:rsidRPr="00A475A3" w:rsidRDefault="00AC3E50" w:rsidP="00A475A3">
+                                            <w:pPr>
+                                                <w:pStyle w:val="NoSpacing"/>
+                                                <w:jc w:val="center"/>
+                                                <w:rPr>
+                                                    <w:i/>
+                                                    <w:iCs/>
+                                                    <w:sz w:val="18"/>
+                                                    <w:szCs w:val="18"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00A475A3">
+                                                <w:rPr>
+                                                    <w:i/>
+                                                    <w:iCs/>
+                                                    <w:sz w:val="18"/>
+                                                    <w:szCs w:val="18"/>
+                                                </w:rPr>
+                                                <w:t>Office</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w14:paraId="7E2F72AE" w14:textId="0E832EE3" w:rsidR="00BA17C4" w:rsidRPr="00A475A3" w:rsidRDefault="00BA17C4" w:rsidP="00A475A3">
+                                            <w:pPr>
+                                                <w:pStyle w:val="NoSpacing"/>
+                                                <w:jc w:val="center"/>
+                                                <w:rPr>
+                                                    <w:i/>
+                                                    <w:iCs/>
+                                                    <w:sz w:val="18"/>
+                                                    <w:szCs w:val="18"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00A475A3">
+                                                <w:rPr>
+                                                    <w:i/>
+                                                    <w:iCs/>
+                                                    <w:sz w:val="18"/>
+                                                    <w:szCs w:val="18"/>
+                                                </w:rPr>
+                                                <w:t>2019</w:t>
+                                            </w:r>
+                                            <w:r w:rsidR="00A475A3" w:rsidRPr="00A475A3">
+                                                <w:rPr>
+                                                    <w:i/>
+                                                    <w:iCs/>
+                                                    <w:sz w:val="18"/>
+                                                    <w:szCs w:val="18"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve"> / 365</w:t>
+                                            </w:r>
+                                        </w:p>
+                                    </w:txbxContent>
+                                </v:textbox>
+                                <w10:wrap type="square"/>
+                            </v:shape>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:noProof/>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251662336" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="48B8F953" wp14:editId="59F4D6FC">
+                        <wp:simplePos x="0" y="0"/>
+                        <wp:positionH relativeFrom="margin">
+                            <wp:align>right</wp:align>
+                        </wp:positionH>
+                        <wp:positionV relativeFrom="paragraph">
+                            <wp:posOffset>6985</wp:posOffset>
+                        </wp:positionV>
+                        <wp:extent cx="648970" cy="648970"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:wrapSquare wrapText="bothSides"/>
+                        <wp:docPr id="5" name="Picture 5"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="0" name="Picture 5"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId5" cstate="print">
+                                            <a:extLst>
+                                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+                                                </a:ext>
+                                            </a:extLst>
+                                        </a:blip>
+                                        <a:srcRect/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="648970" cy="648970"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                        <a:noFill/>
+                                        <a:ln>
+                                            <a:noFill/>
+                                        </a:ln>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:anchor>
+                </w:drawing>
+            </w:r>
+            <w:r w:rsidR="0037035E">
+                <w:rPr>
+                    <w:sz w:val="30"/>
+                    <w:szCs w:val="30"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Test Complete, you may close this File. </w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="00C77BBD" w:rsidSect="00C07B24">
+            <w:pgSz w:w="12240" w:h="15840"/>
+            <w:pgMar w:top="1440" w:right="1296" w:bottom="1440" w:left="1296" w:header="720" w:footer="720" w:gutter="0"/>
+            <w:cols w:space="720"/>
+            <w:docGrid w:linePitch="360"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
